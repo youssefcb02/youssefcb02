@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 About Me
-A third-year computer engineering student specializing in **Data Engineering** with hands-on experience building ETL pipelines, data integration flows, automated data cleaning and ML-based quality checks. I’m looking for an internship where I can help build reliable, scalable data import and monitoring systems. :contentReference[oaicite:1]{index=1}
+A third-year computer engineering student specializing in **Data Engineering** with hands-on experience building ETL pipelines, data integration flows, automated data cleaning and ML-based quality checks. I’m looking for an internship where I can help build reliable, scalable data import and monitoring systems. 
 
 ---
 
@@ -49,36 +49,36 @@ A third-year computer engineering student specializing in **Data Engineering** w
 Tunis, Tunisia  
 - Implemented near real-time monitoring for data stores and system metrics.  
 - Built a streaming pipeline with Filebeat → Kafka; automated workflows with Apache NiFi, reducing manual interventions by **70%**.  
-- Integrated Elasticsearch and Spark for storage and predictive modeling; visualized with Kibana. :contentReference[oaicite:2]{index=2}
+- Integrated Elasticsearch and Spark for storage and predictive modeling; visualized with Kibana.
 
 ### **BI Developer — Freelancer** (Oct 2024 – Present)  
 Ariana, Tunisia  
-- Delivered end-to-end BI solutions, automated reporting, and interactive Power BI dashboards that support business decisions. :contentReference[oaicite:3]{index=3}
+- Delivered end-to-end BI solutions, automated reporting, and interactive Power BI dashboards that support business decisions. 
 
 ---
 
 ## 🧩 Selected Projects
 - **Admission & Employability (BI Project)** — PostgreSQL, Talend, Python, Power BI, Flask, Angular  
-  Architected a data warehouse, automated pipelines (Talend), and embedded Power BI dashboards; ML/DL models with **85%** accuracy. :contentReference[oaicite:4]{index=4}
+  Architected a data warehouse, automated pipelines (Talend), and embedded Power BI dashboards; ML/DL models with **85%** accuracy. 
 
 - **Cosmetic Supply Chain (BI Project)** — SSIS, SQL Server, Python, Power BI  
-  Built centralized DW, automated ETL, and forecasting models with **83%** predictive accuracy. :contentReference[oaicite:5]{index=5}
+  Built centralized DW, automated ETL, and forecasting models with **83%** predictive accuracy. 
 
 - **Predict Online Gaming Behavior** — Python, Scikit-Learn  
-  Engineered behavioral features and models (Random Forest, XGBoost) achieving **88%** accuracy and **0.90 AUC-ROC**. :contentReference[oaicite:6]{index=6}
+  Engineered behavioral features and models (Random Forest, XGBoost) achieving **88%** accuracy and **0.90 AUC-ROC**. 
 
 ---
 
 ## 🎓 Education
 **Private Higher School of Engineering and Technology — ESPRIT**  
-Engineering Degree (Sept 2022 – Present). :contentReference[oaicite:7]{index=7}
+Engineering Degree (Sept 2022 – Present). 
 
 ---
 
 ## 🏆 Certifications
 - AWS Academy Graduate - Cloud Foundations  
 - Fundamentals of Deep Learning  
-- NVIDIA training & Credly badges (links in contact section). :contentReference[oaicite:8]{index=8}
+- NVIDIA training & Credly badges (links in contact section). 
 
 ---
 
@@ -87,7 +87,7 @@ Engineering Degree (Sept 2022 – Present). :contentReference[oaicite:7]{index=7
 - Phone: +216 247 998 43  
 - LinkedIn: https://www.linkedin.com/in/youssef-bouhachem-955a401bb/  
 - GitHub: https://github.com/youssefcb02  
-- Credly / NVIDIA certs: links in my CV. :contentReference[oaicite:9]{index=9}
+- Credly / NVIDIA certs: links in my CV. 
 
 ---
 
