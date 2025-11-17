@@ -23,7 +23,7 @@ A third-year computer engineering student specializing in **Data Engineering** w
 ---
 
 ## 🧰 Tech Stack & Tools
-Animated badges (replace `YOUR_USERNAME` or `YOUR_REPO` where needed)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Talend-%23E34F26.svg?logo=talend&style=for-the-badge" alt="Talend"/>
   <img src="https://img.shields.io/badge/Apache%20NiFi-%23EE0000.svg?logo=apache-nifi&style=for-the-badge" alt="NiFi"/>
